@@ -1,0 +1,10 @@
+Flask==2.0.2
+#flask_restful==0.3.9
+#undetected-chromedriver==3.2.1
+pyChatGPT==0.4.3.3
+PyVirtualDisplay==3.0
+
+revChatGPT==2.3.3
+
+wechaty==0.10.7
+libretranslatepy
